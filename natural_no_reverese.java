@@ -9,5 +9,6 @@ public class natural_no_reverese {
             System.out.print(i+" ");
             
         }
+        sc.close();
     }
 }
