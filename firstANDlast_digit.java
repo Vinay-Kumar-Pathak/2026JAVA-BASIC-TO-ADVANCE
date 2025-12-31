@@ -24,5 +24,6 @@ public class firstANDlast_digit {
         System.out.println("Last digit is: "+last);
         System.out.println("Second digit is: "+seconddigit);
         System.out.println("Second last digit is: "+secondlast);
+        sc.close();
     }
 }
